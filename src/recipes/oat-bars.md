@@ -11,12 +11,12 @@ ingredients:
   - 200g scotish oats
   - 50g scotish oats (blended into flour)
   - 100g white cholocate chips
-  - 1/4 teaspoon backing soda
-  - 1/4 teaspoon salt
-  - 102.5g cup sunflower oil
-  - 112.5g cup honey
-  - 67.5g cup castor sugar
-  - 1 teaspoon vanilla
+  - 1/4 tsp backing soda
+  - 1/4 tsp salt
+  - 102.5g sunflower oil
+  - 112.5g honey
+  - 67.5g castor sugar
+  - 1 tsp vanilla
 ---
 1. Heat oven to 150°C. Line a pan with baking paper.
 2. Place both the normal and blended oats in large bowl and the chocolate chips, baking soda and salt and mix.
