@@ -4,7 +4,8 @@ tags:
   - Sub-recipe
 servings: 999
 ingredients:
-  - 1 red onion finely chopped
+  - 1 red onion (finely diced)
+  - 10 mushrooms (finely diced)
   - Olive oil
   - Pinch of salt
   - Lots of ground black pepper
