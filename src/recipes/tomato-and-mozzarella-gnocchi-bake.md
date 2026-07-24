@@ -19,5 +19,6 @@ ingredients:
 * Add the garlic and a pinch of salt and fry for 1 more minute
 * Add the sun-dried tomatoes and fry for 3 more minute
 * Add the tomato passata and 1/3 of the carton of water and simmer for 5 minutes
+* Add the gnocchi and season with salt and pepper
 * Scatter the mozzarella on top of the gnocchi
 * Bake for 20-25 minutes until mozzeralla is melted and golden
