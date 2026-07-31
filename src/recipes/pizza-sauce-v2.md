@@ -3,6 +3,7 @@ title: Pizza sauce v2
 tags:
   - Sub-recipe
 servings: 525
+servingsUnit: grammes
 ingredients:
   - 500ml tomato passata
   - 1 tbsp extra virgin olive oil
