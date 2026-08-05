@@ -13,6 +13,8 @@ ingredients:
   - 120g cheddar cheese (grated)
   - 375g sheet of ready rolled puff pastry
   - 1 egg (beaten)
+  - Salt
+  - Pepper
 ---
 1. Preheat oven to 190°C
 2. Boil the potatoes for 10 minutes
