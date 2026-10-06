@@ -1,23 +1,19 @@
 ---
-title: Pizza sauce
+title: Pizza sauce v2
 tags:
   - Sub-recipe
-servings: 999
+servings: 525
+servingsUnit: grammes
 ingredients:
-  - 1 red onion (finely diced)
-  - 10 mushrooms (finely diced)
-  - Olive oil
-  - Pinch of salt
-  - Lots of ground black pepper
-  - 1 tbsp dried oregano
-  - 4 cloves of garlic finely chopped
-  - 1 tin of good quanlity chopped tomatoes
-  - 5 tbsp tomato pasata
-  - 1 tsb pesto
+  - 500ml tomato passata
+  - 1 tbsp extra virgin olive oil
   - 1 tbsp tomato puree
+  - 1/4 tsp garlic powder
+  - 1 tsp dried oregano
+  - 3/4 tspsale
+  - Pinch of black pepper
+  - Pinch of sugar
 ---
-1. Add a few glugs of olive oil to a pan on a low heat, and add the onions.
-2. After a couple of minutes add the pressed garlic, oregano, pesto, tomato concentrate, and the salt and pepper.
-3. Allow to fry on a low heat for a few minutes until the mixture has softened and taken on the look of marmalade. If it is drying out, add a little more oil.
-4. The add the sliced mushrooms and stir together for 20 seconds. The mushrooms will absorb a lot of the oily juices.
-5. Now add the chopped tomatoes and the passata. Allow to warm for a minute or so and then remove form the heat.
+1. Mix everything together.
+2. Simmer for 5-10 minutes
+3. Approx 35g per pizza, can be frozen for later use
