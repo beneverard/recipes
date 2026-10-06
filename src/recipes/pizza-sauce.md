@@ -1,5 +1,5 @@
 ---
-title: Pizza sauce v2
+title: Pizza sauce
 tags:
   - Sub-recipe
 servings: 525
